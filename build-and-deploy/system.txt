@@ -1,0 +1,8 @@
+2026-05-31T16:41:52.4730000Z Job is about to start running on the hosted runner: GitHub Actions 1000000082
+2026-05-31T16:41:52.4730000Z Job is waiting for a hosted runner to come online.
+2026-05-31T16:41:52.4720000Z Requested labels: ubuntu-latest
+2026-05-31T16:41:52.4720000Z Job defined at: emmanuellaisa00/beatdr0p/.github/workflows/android-build.yml@refs/heads/main
+2026-05-31T16:41:52.4720000Z Waiting for a runner to pick up this job...
+2026-05-31T16:41:52.4700000Z Evaluating build-and-deploy.if
+2026-05-31T16:41:52.4700000Z Evaluating: success()
+2026-05-31T16:41:52.4700000Z Result: true
